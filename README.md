@@ -1,5 +1,6 @@
 # Overview
 This is the Python implementation of End-to-End Multi-view Lipreading tested on the OuluVS2 dataset. If you use this package in your research, please kindly cite this paper:
+
 [1] End-to-End Multi-View Lipreading, S. Petridis, Y. Wang, Z. Li, M. Pantic. British Machine Vision Conference. London, September 2017. 
 
 ## Dependencies
