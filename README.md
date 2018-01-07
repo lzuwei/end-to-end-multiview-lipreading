@@ -97,5 +97,5 @@ Experiment settings are controlled by Config files. You can find all the Config 
 We have also released the best-performing models for single-view, 2-view and 3-view experiments. Those models have achieved the current state-of-the-art accuracies on the OuluVS2 dataset, as reported in [1].
 You can find those models at https://ibug.doc.ic.ac.uk/resources/EndToEndLipreading/.
 
-Please note that in order to use the pre-trained models you need to subtract the mean image of each video (i.e., you should compute the mean image of the video and remove it from all frames in that video) and then z-normalise each image, i.e., remove the mean pixel value and divide by the standard deviation of all pixels in that image. Check preTrainEncoderWithRBMs.m for an example.
+Please note that in order to use the pre-trained models you need to subtract the mean image of each video (i.e., you should compute the mean image of the video and remove it from all frames in that video) and then z-normalise each image, i.e., remove the mean pixel value and divide by the standard deviation of all pixels in that image. Check `preTrainEncoderWithRBMs.m` for an example.
 
