@@ -60,7 +60,7 @@ python extract_lstm_from_1stream_final.py
 ```
 The extracted weights (for Encoder and for LSTM) are saved in `$ROOT/oulu/models/final_1stream_models`.
 
-Then you can run the multi-view experiments. Simply go back to ërunnersí folder, and run corresponding scripts. 
+Then you can run the multi-view experiments. Simply go back to `runners` folder, and run corresponding scripts. 
 ```
 cd $ROOT/runners
 ./run_experiments.oulu_2stream.sh ./experiments/oulu_2stream_experiments.txt
