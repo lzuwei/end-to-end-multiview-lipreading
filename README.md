@@ -26,7 +26,7 @@ The OuluVS2 audiovisual database was collected at the Center of Machine Vision R
 You need to sign a license agreement before you can use this dataset. Details can be found on: 
 http://www.ee.oulu.fi/research/imag/OuluVS2/index.html
 After you have downloaded the dataset successfully, you can use the provided scripts to pre-process the dataset. 
-Instructions on how to pre-process the dataset
+Instructions on how to pre-process the dataset can be found on `preprocessOulu.pdf`
 
 ## Usage
 To use this package, make sure you have:
